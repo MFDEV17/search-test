@@ -1,0 +1,25 @@
+{
+  "hash": "9eebb8c7",
+  "configHash": "d73e8c8f",
+  "lockfileHash": "abc184bc",
+  "browserHash": "873e8272",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "e9eb90f9",
+      "needsInterop": false
+    },
+    "vue-select": {
+      "src": "../../node_modules/vue-select/dist/vue-select.es.js",
+      "file": "vue-select.js",
+      "fileHash": "2a4ba703",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YJZCKX3S": {
+      "file": "chunk-YJZCKX3S.js"
+    }
+  }
+}
